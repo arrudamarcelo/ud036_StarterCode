@@ -25,4 +25,5 @@ _The file is already filled with six movies to be used as a sample._
 1. [Install Python](https://www.python.org/downloads/)
 2. Compile and run python program entertainment_center.py:
 ``` python entertainment_center.py ```
+
 This file will load the movies from **movies.json**, create the movie trailer website, and open the browser showing this webpage.
