@@ -26,4 +26,8 @@ _The file is already filled with six movies to be used as a sample._
 2. Compile and run python program entertainment_center.py:
 ``` python entertainment_center.py ```
 
-This file will load the movies from **movies.json**, create the movie trailer website, and open the browser showing this webpage.
+This file will load the movies from **movies.json**, use a third party code (fresh_tomatoes.py) to create the movie trailer website (called fresh_tomatoes.html), and open the browser showing this webpage.
+
+## Sample
+You can see bellow a sample using **movies.json** file.
+![Movie Trailer Website sample](movie_trailer_sample.png)
