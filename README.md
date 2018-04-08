@@ -18,11 +18,11 @@ The movies content are fetch from a [JSON file](https://pythonspot.com/json-enco
     ]
 }
 ```
-For each movie you need to fill this JSON with title, description (not mandatory), poster image url, trailer url.
-_The **movies.json** file is already filled with six movies to be used as a sample._
+For each movie you need to fill **movies.json** with title, description (not mandatory), poster image url, trailer url.
+_The file is already filled with six movies to be used as a sample._
 
 ### Running the program to generate Movie Trailer Website
-1- [Install Python](https://www.python.org/downloads/)
-2- Compile and run python program entertainment_center.py:
+1. [Install Python](https://www.python.org/downloads/)
+2. Compile and run python program entertainment_center.py:
 ``` python entertainment_center.py ```
 This file will load the movies from **movies.json**, create the movie trailer website, and open the browser showing this webpage.
